@@ -9,11 +9,11 @@
 					"x": -438.42,
 					"y": 6028.29,
 					"z": 31.34,
-					"heading": 28.59,
+					"heading": 28.59
 				},
 				"vehicle": {
-					"model": "police",
-					"livery": 2
+					"model": "umstang",
+					"livery": 1
 				}
 			}
 		]

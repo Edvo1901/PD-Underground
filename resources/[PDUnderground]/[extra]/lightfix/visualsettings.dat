@@ -1,5 +1,5 @@
 car.headlight.day.emissive.on	        180.00
-car.headlight.night.emissive.on	        105.00
+car.headlight.night.emissive.on	        150.00
 car.headlight.day.emissive.off   	0.000
 car.headlight.night.emissive.off	0.000
 car.taillight.day.emissive.on	200.0

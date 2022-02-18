@@ -8,7 +8,7 @@
 		{
 			"name": "Police 2",
 			"vehicle": "police2",
-			"isAvailableForEveryone": false,
+			"isAvailableForEveryone": true,
 			"useRanks": true,
 			"availableForRanks": ["Officer I", "Officer II"],
 			"availableForDepartments": []
@@ -16,7 +16,7 @@
 		{
 			"name": "Police 3",
 			"vehicle": "police3",
-			"isAvailableForEveryone": false,
+			"isAvailableForEveryone": true,
 			"useRanks": false,
 			"availableForRanks": ["Detective I", "Detective II"],
 			"availableForDepartments": [18]
@@ -24,13 +24,38 @@
 		{
 			"name": "Police 4",
 			"vehicle": "police4",
-			"isAvailableForEveryone": false,
+			"isAvailableForEveryone": true,
 			"useRanks": false,
 			"availableForDepartments": [19]
 		},
 		{
 			"name": "sheriff2",
 			"vehicle": "sheriff2",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "Motobike",
+			"vehicle": "14bike",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Charger",
+			"vehicle": "GCSO4",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "Mustang",
+			"vehicle": "umstang",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2020 Tahoe",
+			"vehicle": "GCSO3",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2011 Impala",
+			"vehicle": "GCSO5",
 			"isAvailableForEveryone": true
 		}
 	],

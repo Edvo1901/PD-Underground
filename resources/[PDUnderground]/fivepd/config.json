@@ -7,7 +7,7 @@
     "port": 3306,
     "database": "fivepd"
   },
-  "stationBlips": true,
+  "stationBlips": false,
   "maxReportLength": 1000,
   "maxFine": 1000000,
   "maxFinePoint": 100,
@@ -31,7 +31,7 @@
   "adminCode": "admin",
   "discord": {
     "enable": true,
-    "token": "6b3f98c0456a25ff"
+    "token": "449840d7c416f985"
   },
   "dutyNotification": true,
   "observation": true,
