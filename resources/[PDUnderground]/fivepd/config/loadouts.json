@@ -21,11 +21,25 @@
 			},
 			{
 				"weapon": "WEAPON_FIREEXTINGUISHER",
-				"ammo": 1000
+				"ammo": 10
+			},
+			{
+				"weapon": "WEAPON_CARBINERIFLE",
+				"components": [
+					"COMPONENT_AT_AR_AFGRIP",
+					"COMPONENT_AT_AR_FLSH",
+					"COMPONENT_CARBINERIFLE_CLIP_02"
+				],
+				"ammo": 250
+			},
+			{
+				"weapon": "WEAPON_MARKSMANRIFLE",
+				"ammo": 250
 			}
 		]
 	},
 	"Loadout 2": {
+		"isAvailableForEveryone": true,
 		"isAvailableForEveryone": false,
 		"useRanks": true,
 		"availableForRanks": ["Officer I", "Officer II"],
@@ -43,6 +57,7 @@
 		]
 	},
 	"Loadout 3": {
+		"isAvailableForEveryone": true,
 		"isAvailableForEveryone": false,
 		"useRanks": false,
 		"availableForDepartments": [18],

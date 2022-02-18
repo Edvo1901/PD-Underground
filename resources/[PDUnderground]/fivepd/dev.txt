@@ -1,1 +1,3 @@
 new Vector3(1490.821f, 4532.458f, 53.22274f)
+Sheriff PD - new Vector3(453.084f, -992.5134f, 30.6896f)
+PedHash.Swat01SMY, SWAT PD - new Vector3(458.4894f, -992.9f, 30.6896f)

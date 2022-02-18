@@ -58,7 +58,7 @@ Citizen.CreateThread(function()
 		elseif IsControlJustReleased(1, 249) and pressed == true then
 			TriggerEvent('InteractSound_CL:PlayOnOne','vocal_keyrelease', 0.3)
 			Wait(1000)
-			TriggerEvent('InteractSound_CL:PlayOnOne',vocalresponse[math.random(#vocalresponse)], 0.5)
+			--TriggerEvent('InteractSound_CL:PlayOnOne',vocalresponse[math.random(#vocalresponse)], 0.5)
 			pressed = false
 		end
 	end

@@ -24,6 +24,12 @@
 		"itemLocation": 2
 	},
 	{
+		"name": "pistol gun",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
 		"name": "watch",
 		"isIllegal": false,
 		"multiplier": 20,
