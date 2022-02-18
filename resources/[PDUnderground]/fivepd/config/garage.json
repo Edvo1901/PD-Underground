@@ -14,6 +14,11 @@
 				"vehicle": {
 					"model": "umstang",
 					"livery": 1
+					"heading": 28.59,
+				},
+				"vehicle": {
+					"model": "police",
+					"livery": 2
 				}
 			}
 		]
