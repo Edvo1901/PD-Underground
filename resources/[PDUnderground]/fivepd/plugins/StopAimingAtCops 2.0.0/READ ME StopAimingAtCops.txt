@@ -1,0 +1,58 @@
+////////////////////////StopAimingAtCops////////////////////////
+INSTALL PATH: drop everything inside GTA 5 Folder/plugins/LSPDFR
+
+Are you tired of trying to gun down a suspect and your character aims at an emergency worker?
+
+>>>I GOT THE SOLUTION FOR YOU!<<<
+
+>>>>>COMPATIBLE WITH DEFAULT LSPDFR PEDS, STOP THE PED & ULTIMATE BACKUP<<<<<
+
+Need support, have suggestions, just want to discuss? Join my Discord: https://discord.gg/g82638j
+
+>>>>What this mod does:
+Every second, the mod scans through the peds in the world and check if they are part of any emergency service.
+If it finds any, it will DISABLE AUTO-AIM on him/her.
+>You can still shoot them by free-aiming.
+>Any ped not in the list below will not get protected (so you can still auto-aim at pedestrians etc).
+
+NEW IN VERSION 2.0.0 :
+You can't kill those peds using melee attack with your weapon by accident
+
+>>>>List of immunised peds:
+- Police:
+	Usual police
+	Sheriff
+	FBI
+	Park Ranger
+	Highway patrol
+	North Yankton
+	CIA
+	DOA
+	Helicopter pilot
+	US Coast Guard
+	Prison guard
+	Special agents	 
+- SWAT
+- Paramedic
+- Fireman
+- Coroner:
+	Doctor
+	Scientist
+- Army/Marine
+
+>>>>TERMS & CONDITIONS<<<<
+- Do not distribute this mod as being your own.
+- If you want to give this mod to someone, do not share the files. 
+	>Instead, give them the LCPDFR.com download link
+- If you use this mod in a video, please give proper credits. 
+	>You agree that I can pin your video in the file description without your written consentment
+- I will not give support for this mod in the file comments. Join my Discord for support.
+- Do not try reverse engineering my mod.
+	
+
+////////////////CHANGE LOG////////////////
+2.0.0:
+Disabled auto-melee attack
+1.0.1:
+Fixed a crash happening when going on-duty.
+Verified compatibility with LSPDFR 0.4.7

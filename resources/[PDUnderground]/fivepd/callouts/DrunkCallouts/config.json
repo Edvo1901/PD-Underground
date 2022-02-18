@@ -1,0 +1,26 @@
+{
+  "DrunkBiker":{
+    "IgnoreDistance":true,
+    "MinTimeout":0,
+    "Probability":2,
+    "Departments":null
+  },
+  "DrunkDriver":{
+    "IgnoreDistance":true,
+    "MinTimeout":0,
+    "Probability":2,
+    "Departments":null
+  },
+  "DrunkDriverNotPursuit":{
+    "IgnoreDistance":true,
+    "MinTimeout":0,
+    "Probability":2,
+    "Departments":null
+  },
+  "DrunkFight":{
+    "IgnoreDistance":true,
+    "MinTimeout":0,
+    "Probability":2,
+    "Departments":null
+  }
+  }
