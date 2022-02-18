@@ -5,7 +5,7 @@ config = {
 	position = {
 		-- 0:100
 		offsetX = 20;
-		offsetY = 25; 
+		offsetY = 20; 
 	};
 
   scale = 1.0;
