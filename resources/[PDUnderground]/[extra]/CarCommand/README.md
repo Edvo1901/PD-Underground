@@ -1,0 +1,4 @@
+-Creator: Jayce H.
+-Description: Spawn a car via a text chat command
+-Version: 1.0.0
+-Discord: https://discord.gg/fg7rrZtK

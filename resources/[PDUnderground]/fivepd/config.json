@@ -31,7 +31,7 @@
   "adminCode": "admin",
   "discord": {
     "enable": true,
-    "token": ""
+    "token": "6b3f98c0456a25ff"
   },
   "dutyNotification": true,
   "observation": true,
