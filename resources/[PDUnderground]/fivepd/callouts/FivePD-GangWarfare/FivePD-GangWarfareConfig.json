@@ -1,0 +1,37 @@
+{
+	"config": {
+		"maxAmountOfMembers": 10,
+		"minAmountOfMembers": 2,
+		"ambientVehicle": {
+			"ambientVehicleChance": 65,
+			"vehicleModels": [
+				"Emperor",
+				"Intruder",
+				"Manana",
+				"Tornado"
+			]
+		},
+		"gangPedModels": {
+			"gangA": [
+				"g_m_y_ballaeast_01",
+				"g_m_y_ballaorig_01",
+				"g_m_y_ballasout_01",
+				"g_f_y_ballas_01"
+			],
+			"gangB": [
+				"g_f_y_vagos_01",
+				"g_m_y_pologoon_01",
+				"g_m_y_salvagoon_01",
+				"g_m_y_salvaboss_01"
+			]
+		},
+		"weapons": [
+			"weapon_pistol",
+			"weapon_pumpshotgun",
+			"weapon_microsmg"
+		],
+		"debug": {
+			"debugPrint": 0
+		}
+	}
+}

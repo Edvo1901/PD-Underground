@@ -1,0 +1,20 @@
+{
+  "DoomsdayCult":{
+    "IgnoreDistance":true,
+    "MinTimeout":0,
+    "Probability":2,
+    "Departments":null
+  },
+  "Clown":{
+    "IgnoreDistance":true,
+    "MinTimeout":0,
+    "Probability":2,
+    "Departments":null
+  },
+  "ClownPursuit":{
+    "IgnoreDistance":true,
+    "MinTimeout":0,
+    "Probability":2,
+    "Departments":null
+  }
+}
