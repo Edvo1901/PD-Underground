@@ -1,31 +1,45 @@
-# cfx-server-data
-_The data repository for Cfx.re servers_
+# PD Underground GTAV Roleplay FiveM Server
+A roleplay server where people can become a police and do real-life police job. This is a multiplayer server mean you can patrol and respone to a call with your friends or other players.
+
+## What will you do?
+- Patrolling around Los Santos City with other players.
+- Respone to a call of the residents.
+- Fight against the gangs and mafia to protect innocent.
+- Operate the traffic stops and write bill.
+- Cooperate with other players to hunt down illegal weed farm.
+- Training between police.
+- Pursuit the crime that running away.
+
+## Feature
+- Radio chatting.
+- Bank, store,... robbery callout.
+- Traffic stop callout.
+- Pursuit callout.
+- Daily callout.
+- Fake 911 callout.
+- Gang callout.
+- Realistic police vehicle.
+- Realistic driving (Car can be damaged and broken).
+- Many type of guns.
+- Create your own character.
 
 ## Usage
-1. Make sure to `git clone`. Don't "Download ZIP", as that'll make it _much_ harder to update to newer versions.
-2. Put custom resources in `resources/[local]/` if you don't want to be affected by any random messups.
+- Feel free to make use of this project for your server. Please be aware it is illegal to resell this project.
 
-### Advanced usage
-You can also consider using the repository as a submodule + symlink for your own Git repository:
+You can clone this project by running the following code in Terminal.
+```git clone https://github.com/Edvo1901/PdUnder.git```
 
-**Linux**:
-```
-$ git submodule add https://github.com/citizenfx/cfx-server-data.git vendor/server-data
-$ ln -s ../vendor/server-data/resources/ 'resources/[base]/'
-```
+## Credit
+1. Original code of this project belong to **FivePD** and their **Modder Community**. Find out more at: https://gtapolicemods.com/fivepd/
 
-**Windows**:
-```
-> git submodule add https://github.com/citizenfx/cfx-server-data.git vendor/server-data
-> mklink /d resources\[base] ..\vendor\server-data\resources
-```
+2. The base code of this project belong to **CFX.re** and **FiveM**. Find out more at: https://cfx.re
 
-## Policy
-You can make pull requests to propose changes that benefit _everyone_. Add new useful resources, change/improve
-existing ones - anything goes, as long as you make sure to:
+## Contributing
+This is a private project, please contact @Edvo19 to requires edit or pull requests. 
 
-1. Not break existing users/APIs.
-2. Not change default behavior without a toggle.
-3. Use best practices (convars over config files, native commands wherever possible, etc.)
+If you found out any bugs or issues, please open the issues ticket.
 
-Modifying or rewriting existing resources in this repository for local use only is _strongly_ discouraged.
+## License
+Please be aware this is *a open-source project* of **FivePD** and **CFX.re**. It is unable to sell under any circumstances, all the Copy-right credit belong to **FivePD** and **CFX.re**.
+
+[MIT](https://choosealicense.com/licenses/mit/)
