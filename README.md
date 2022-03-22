@@ -27,7 +27,7 @@ A roleplay server where people can become a police and do real-life police job. 
 - Feel free to make use of this project for your server. Please be aware it is illegal to resell this project.
 
 You can clone this project by running the following code in Terminal.
-```git clone https://github.com/Edvo1901/PdUnder.git```
+```git clone https://github.com/Edvo1901/PD-Underground.git```
 
 ## Credit
 1. Original code of this project belong to **FivePD** and their **Modder Community**. Find out more at: https://gtapolicemods.com/fivepd/
